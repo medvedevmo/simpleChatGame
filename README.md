@@ -6,6 +6,7 @@ Very simple game. Guess which word is chosen from 1000 russian words. You have 1
 !help to print all commands<br>
 !rules to print rules and recommendations<br>
 !giveup if you dont want or cant guess the word<br>
+
 You need to install termcolor to highlight important messages.
 ```pip
 pip install termcolor
@@ -18,6 +19,7 @@ pip install termcolor
 !help чтобы вывести все команды<br>
 !rules чтобы вывести правила и рекомендации<br>
 !giveup если вы хотите сдаться<br>
+
 Вам нужно установить termcolor для подсветки важных сообщений.
 ```pip
 pip install termcolor
