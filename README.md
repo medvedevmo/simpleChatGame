@@ -1,7 +1,7 @@
 # simpleChatGame
 
 ### English Version
-Very simple game. Guess which word is chosen from 1000 most popular russian words. Every hidden word is replaced with "_" symbols, so you will know the length of the hidden word. You have 10 attempts to guess the word. If you wrote right letter in right position, then you will get a message about that letter and position. Every iteration of the game contains 10 hidden words to guess, if you want to get 10 words to guess again, you will need to answer "y" (means "yes") to the suggestion in the end of iteration. If you have no idea which word is It, you only need to write command "!giveup" and you will get the next random chosen word. 
+Very simple game. Guess which word is chosen from 1000 most popular russian words. Every hidden word is replaced with "_" symbols, so you will know the length of the hidden word. You have 10 attempts to guess the word. If you wrote right letter in right position, then you will get a message about that letter and position. Every iteration of the game contains 10 hidden words to guess, if you want to get 10 words to guess again, you will need to answer "y" (means "yes") to the suggestion in the end of iteration. If you have no idea which word is It, you only need to write command "!giveup" so you will be able to read which word It was and you will get the next random chosen word. 
 
 !help to print all commands<br>
 !rules to print rules and recommendations<br>
